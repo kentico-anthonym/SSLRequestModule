@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\13f\SSLRequestModule\bin\Debug\netstandard2.0\SSLRequestModule.deps.json
+C:\inetpub\wwwroot\13f\SSLRequestModule\bin\Debug\netstandard2.0\SSLRequestModule.dll
+C:\inetpub\wwwroot\13f\SSLRequestModule\bin\Debug\netstandard2.0\SSLRequestModule.pdb
+C:\inetpub\wwwroot\13f\SSLRequestModule\obj\Debug\netstandard2.0\SSLRequestModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\13f\SSLRequestModule\obj\Debug\netstandard2.0\SSLRequestModule.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\13f\SSLRequestModule\obj\Debug\netstandard2.0\SSLRequestModule.AssemblyInfo.cs
+C:\inetpub\wwwroot\13f\SSLRequestModule\obj\Debug\netstandard2.0\SSLRequestModule.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\13f\SSLRequestModule\obj\Debug\netstandard2.0\SSLRequestModule.dll
+C:\inetpub\wwwroot\13f\SSLRequestModule\obj\Debug\netstandard2.0\SSLRequestModule.pdb

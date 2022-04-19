@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\inetpub\\wwwroot\\13f\\SSLRequestModule\\SSLRequestModule.csproj": {}
+  },
+  "projects": {
+    "C:\\inetpub\\wwwroot\\13f\\SSLRequestModule\\SSLRequestModule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\inetpub\\wwwroot\\13f\\SSLRequestModule\\SSLRequestModule.csproj",
+        "projectName": "SSLRequestModule",
+        "projectPath": "C:\\inetpub\\wwwroot\\13f\\SSLRequestModule\\SSLRequestModule.csproj",
+        "packagesPath": "C:\\Users\\anthonym\\.nuget\\packages\\",
+        "outputPath": "C:\\inetpub\\wwwroot\\13f\\SSLRequestModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anthonym\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\anthonym\\nuget_packages": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Kentico.Xperience.Libraries": {
+              "target": "Package",
+              "version": "[13.0.57, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
